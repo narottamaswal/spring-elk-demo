@@ -1,5 +1,7 @@
+# Simple Spring Boot APP with ELK Integration
 
-#### Simple Sprint Boot App with 1 API which contains multiple loggers. 
+
+#### Only 1 API which contains multiple loggers. 
 
  ```@GetMapping("/getUser/{id}")
     public User getUserById(@PathVariable int id) {
